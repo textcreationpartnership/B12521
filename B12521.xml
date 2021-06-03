@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saying of Iohn late Duke of Northumberlande vppon the scaffolde, at the tyme of his execution The. xxii. of Auguste.</title>
+            <author>Northumberland, John Dudley, Duke of, 1502-1553.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12521</idno><idno type="EEBO-CITATION">99857099</idno>
+  <idno type="VID">176484</idno>
+  <idno type="EEBO-PROQUEST">2240899135</idno>
+  <idno type="STC">STC 7283</idno>
+  <idno type="STC">ESTC S121943</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857099e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176484)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 289:8a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saying of Iohn late Duke of Northumberlande vppon the scaffolde, at the tyme of his execution The. xxii. of Auguste.</title>
+                  <author>Northumberland, John Dudley, Duke of, 1502-1553.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Cawood, printer to the Quenes highnes, dwellynge in Pauls Churchyarde at the sygne of the holy gost],</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno. 1553.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and address from colophon.</note>
+                  <note>Signatures: [A].</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Last words --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176484:1"/>
+            <pb facs="tcp:176484:1"/>
+            <p>The saying of Iohn late Duke of Northumber<g ref="char:EOLhyphen"/>lande vppon the scaffolde, at the tyme of his ex<g ref="char:EOLhyphen"/>ecution.</p>
+            <p>The. xxii. of Au<g ref="char:EOLhyphen"/>guste.</p>
+            <p>
+               <hi>Anno.</hi> 1553.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:176484:2"/>
+            <pb facs="tcp:176484:2"/>
+            <head>The sayinge of Iohn late Duke of Nor<g ref="char:EOLunhyphen"/>thumberlande, vpon the scaffolde at the tyme of his execution.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Ood people, all you that be here presēt to see me dye. Though my death be odyouse and hor<g ref="char:EOLhyphen"/>rible to the flesh, yet I pray you iudge the beste in god<g ref="char:EOLhyphen"/>des workes, for he doth all for the best. And as for me, I am a wretched synner, &amp; haue deserued to dye, and
+<pb facs="tcp:176484:3"/> moost iustly am condem<g ref="char:EOLhyphen"/>pned to dye by a law. And yet this acte wherefore I dye, was not altogither of me (as it is thoughte) but I was procured and indu<g ref="char:EOLhyphen"/>ced therevnto by other. I was I saye induced there<g ref="char:EOLhyphen"/>vnto by other, howbeit, God forbyd that I shoulde name any man vnto you, I wyll name no man vn<g ref="char:EOLhyphen"/>to you, &amp; therfore I beseche you loke not for it.</p>
+            <p>I for my parte forgeue all men, and praye God al<g ref="char:EOLhyphen"/>so to forgeue thē. And yf I haue offended anye of you here, I praye you and all the worlde to forgeue me:
+<pb facs="tcp:176484:3"/> and moost chiefly I desire forgeuenes of the Quenes highnes, whome I haue most greuouslye offended. Amen sayde the people. And I pray you all to wit<g ref="char:EOLhyphen"/>nes with me, that I depart in perfyt loue and charitie with all the worlde, &amp; that you wyll assiste me with youre prayers at the houre of death.</p>
+            <p>And one thinge more good people I haue to saye vnto you, whiche I am chiefly moued to do for dis<g ref="char:EOLhyphen"/>charge of my conscience, &amp; that is to warne you and exhorte you to beware of these seditiouse preachers,
+<pb facs="tcp:176484:4"/> and teachers of newe doc<g ref="char:EOLhyphen"/>tryne, whiche pretende to preache Gods worde, but in very deede they preache theyr owne phansies, who were neuer able to expli<g ref="char:EOLhyphen"/>cate thē selues, they know not to day what they wold haue to morowe, there is no stay in theyr teaching &amp; doctryne, they open the boke, but they cannot shut it agayne. Take hede how you enter into straūge opi<g ref="char:EOLhyphen"/>nions or newe doctryne, whiche hath done no smal hurte in this realme, and hath iustlye procured the ire and wrath of god vpon vs, as well maye appeare
+<pb facs="tcp:176484:4"/> who so lyst to call to remē<g ref="char:EOLhyphen"/>braunce the manyfold pla<g ref="char:EOLhyphen"/>ges that this realme hath ben touched with all synce we disseuered oure selues from the catholyke church of Christ, and from the do<g ref="char:EOLhyphen"/>ctryne whiche hath ben re<g ref="char:EOLhyphen"/>ceaued by y<seg rend="sup">e</seg> holy apostles, martyrs, and all saynctes, and vsed throughe all real<g ref="char:EOLhyphen"/>mes christened since Christ.</p>
+            <p>And I verely beleue, that all the plagues that haue chaunced to this realme of late yeares synce afore the death of kynge Henrye the eyght, hath iustly fallen v<g ref="char:EOLhyphen"/>pon vs, for that we haue deuyded our selfe from the
+<pb facs="tcp:176484:5"/> rest of Christendome wher<g ref="char:EOLunhyphen"/>of we be but as a sparke in comparisō? Haue we not had warre, famyne, pesty<g ref="char:EOLhyphen"/>lence, y<seg rend="sup">e</seg> death of our kinge, rebellion, sedicion amonge our selues, conspiracies? Haue we not had sondrye erronious opiniōs spronge vp amonge vs in this real<g ref="char:EOLhyphen"/>me, synce we haue forsakē the vnitie of the catholyke Churche? and what other plagues be there that we haue not felt?</p>
+            <p>And yf this be not able to moue you, then loke vpon Germanye, whiche synce it is fallen into this scysme and diuision from the vni<g ref="char:EOLhyphen"/>tie
+<pb facs="tcp:176484:5"/> of the catholike church, is by continuall dissention and discorde, broughte al<g ref="char:EOLhyphen"/>moost to vtter ruyne &amp; de<g ref="char:EOLhyphen"/>caye. Therfore, leste an vt<g ref="char:EOLhyphen"/>ter ruyne come amonge you, by prouokynge to muche the iuste vengeaūce of God, take vp betymes these contentions, &amp; be not ashamed to returne home agayne, and ioyne youre selues to the rest of Christen realmes, and so shall you brynge your selues againe to be membres of Christes bodye, for he cānot be head of a dyfformed or monstru<g ref="char:EOLhyphen"/>ous body.</p>
+            <p>Loke vpon your crede,
+<pb facs="tcp:176484:6"/> haue you not there these wordes: I beleue in the ho<g ref="char:EOLhyphen"/>ly ghost, the holy catholik churche, the communiō of saynctes, which is the vni<g ref="char:EOLhyphen"/>uersall number of all fayth<g ref="char:EOLunhyphen"/>full people, professynge Christe, dispersed throughe the vniuersall worlde: of whiche number I trust to be one. I could bryng ma<g ref="char:EOLhyphen"/>ny mo thinges for this pur<g ref="char:EOLunhyphen"/>pose, albeit I am vnlear<g ref="char:EOLhyphen"/>ned, as all you knowe, but this shall suffice.</p>
+            <p>And heare I do protest vnto you good people, moost earnestly, euen from the bottome of my harte, y<seg rend="sup">t</seg> this which I haue spoken
+<pb facs="tcp:176484:6"/> is of my selfe, not beyng re<g ref="char:EOLhyphen"/>quired nor moued thervn<g ref="char:EOLhyphen"/>to by any man, nor for any flattery, or hope of life, and I take wytnes of my lord of Worcestre here, myne olde frende and gostely fa<g ref="char:EOLhyphen"/>ther, that he founde me in this mynde and opinion when he came to me: but I haue declared this onely vpon myne owne mynde and affection, for discharge of my conscience, &amp; for the zeale and loue that I beare to my naturall countreye. I coulde good people re<g ref="char:EOLhyphen"/>herse muche more euen by experience that I haue of this euyl that is happened
+<pb facs="tcp:176484:7"/> to this realme by these oc<g ref="char:EOLhyphen"/>casions, but you knowe I haue an other thyng to do, whervnto I must prepare me, for the tyme draweth awaye.</p>
+            <p>And nowe I beseche the Quenes highnes to for<g ref="char:EOLhyphen"/>geue me myne offences a<g ref="char:EOLhyphen"/>gaynst her maiestie, wher<g ref="char:EOLhyphen"/>of I haue a singular hope, forasmuch as she hath alre<g ref="char:EOLhyphen"/>dy extended her goodnes &amp; clemency so farre vpon me that where as she myghte forthwith without iudge<g ref="char:EOLhyphen"/>ment or any further tryall, haue put me to moste vyle &amp; cruell death, by hanging drawing, and quartering,
+<pb facs="tcp:176484:7"/> forasmuch as I was in the feild in armes agaynst her highnesse, her maiestie ne<g ref="char:EOLhyphen"/>uertheles of her most mer<g ref="char:EOLhyphen"/>cyfull goodnes suffred me to be brought to my iudge<g ref="char:EOLunhyphen"/>ment, and to haue my try<g ref="char:EOLhyphen"/>all by the lawe, where I was most iustly &amp; worthe<g ref="char:EOLhyphen"/>lye condempned. And her highnes hath now also ex<g ref="char:EOLhyphen"/>tended her mercye and cle<g ref="char:EOLhyphen"/>mencye vpon me for the manner and kynde of my death. And therefore my hoope is, that her grace of her goodnes wyl remyt al the rest of her indignation and displeasure towardes me, whiche I beseche you
+<pb facs="tcp:176484:8"/> all moost hartely to praye for, and that it maye please God longe to preserue her maiestie to reigne ouer you in muche honour and feli<g ref="char:EOLhyphen"/>citie. Amē, sayd the people.</p>
+            <p>And after he hadde thus spoken he kneeled downe, sayinge to them that were about: I beseche you all to beare me wytnesse that I dye in the true catholyke fayth, and then sayde the Psalmes of <hi>Miserere,</hi> and <hi>De profundis,</hi> and his <hi>Pater nostre</hi> in Latin, and sixe of y<seg rend="sup">e</seg> fyrste verses of the psalme, <hi>In te domine speraui,</hi> endynge with this verse, Into thy handes O lorde I cōmend
+<pb facs="tcp:176484:8"/> my spirite.</p>
+            <div type="narrative">
+               <p>And when he had thus finished his pray<g ref="char:EOLhyphen"/>ers, the executioner asked him forgeuenes, to whom he sayde: I forgeue y<seg rend="sup">e</seg> with all my harte, and doo thy parte without feare. And bowynge towarde y<seg rend="sup">e</seg> block he sayd, I haue deserued a thousand deaths, and ther<g ref="char:EOLunhyphen"/>vpon he made a crosse vpon the strawe, and kyssed it, and layde his heade vpon the blocke, and so dyed.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:176484:9"/>
+            <p>¶ <hi>IMPRINTED AT</hi> LONDON BY IOHN <hi>Cawood, printer to the Quenes highnes, dwellynge in Pauls Churchyarde at the sygne of the holy gost.</hi>
+            </p>
+            <p>Cum priuilegio ad imprimendum solum.</p>
+            <pb facs="tcp:176484:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
